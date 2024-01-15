@@ -1,0 +1,1 @@
+<!-- This is not compulsary but you can use this file to note down some of your technical decisions and approach for us to understand better when evaluating your assignment. -->
